@@ -1,15 +1,21 @@
-# Lovable Prototype · Juno
+# System Prompt · Juno
 
-## Prototype link
+## Role & objective
 
-https://lovable.dev/preview/bGW5UqEQ4ltBO5XPSLvJDjVopnP0wjej
+Act as a Senior Frontend Engineer.
 
-## What it demonstrates
+## Context & knowledge
 
-Transcript Summarization Tool
+_What Juno knows, the sources it can draw on, and its boundaries._
 
-## Debrief
+## Rules & guardrails
 
-- **What worked:** Everything
-- **What broke / felt like a toy:** n/a
-- **What I'd change next pass:** try this custom
+_Musts, must-nots, refusal conditions, and tone._
+
+## Output format
+
+_The exact shape of a good response._
+
+## Few-shot examples
+
+_One or two worked input / output pairs._
