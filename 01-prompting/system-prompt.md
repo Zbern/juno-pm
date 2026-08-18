@@ -1,33 +1,15 @@
-# System Prompt · Juno
+# Lovable Prototype · Juno
 
-> Module 1 · Prompting. Juno's production system prompt, authored with the **M1 · System Prompt Configurator**. Fill the tool, then paste its markdown over this file.
+## Prototype link
 
-## Role & objective
+https://lovable.dev/preview/bGW5UqEQ4ltBO5XPSLvJDjVopnP0wjej
 
-_Who Juno is and the single job it optimises for._
+## What it demonstrates
 
-_____
+Transcript Summarization Tool
 
-## Context & knowledge
+## Debrief
 
-_What Juno knows, the sources it can draw on, and its boundaries._
-
-_____
-
-## Rules & guardrails
-
-_Musts, must-nots, refusal conditions, and tone._
-
-_____
-
-## Output format
-
-_The exact shape of a good response._
-
-_____
-
-## Few-shot examples
-
-_One or two worked input → output pairs._
-
-_____
+- **What worked:** Everything
+- **What broke / felt like a toy:** n/a
+- **What I'd change next pass:** try this custom
