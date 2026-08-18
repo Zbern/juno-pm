@@ -1,21 +1,15 @@
 # Lovable Prototype · Juno
 
-> Module 1 · Prompting. The clickable Lovable prototype that brings the system prompt to life.
-
 ## Prototype link
 
-_The public Lovable share URL._
-
-_____
+https://lovable.dev/preview/bGW5UqEQ4ltBO5XPSLvJDjVopnP0wjej
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
-
-_____
+Transcript Summarization Tool
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** Everything
+- **What broke / felt like a toy:** n/a
+- **What I'd change next pass:** try this custom
