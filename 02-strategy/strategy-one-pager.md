@@ -1,27 +1,26 @@
-# AI Strategy One-Pager · Juno
+# AI Strategy One-Pager - Juno Automated Prioritization
 
-> Module 2 · Strategy. Built with the **M2 · AI Strategy One-Pager Builder** (informed by the Three-Layer Model Mapper). Paste the tool's markdown over this file.
+## 1. Problem & Workflow
 
-## The bet
+Checking my pension payment history takes too long and requires too many steps
 
-_The one-sentence strategic bet._
+## 2. Target Metrics
 
-_____
+CTR, page views, session length, task completion rate
 
-## Three-layer model
+## 3. Autonomy Level
 
-- **Model layer:** _which model(s), and why._
-- **Data / retrieval layer:** _what proprietary data or context creates advantage._
-- **Product layer:** _the experience users actually pay for._
+Copilot - User can prompt for deeper explanation of data, filtered views, 
 
-## Why now
+## 4. Data & Model Approach
 
-_Market timing + why this is defensible._
+Build RAG (PII)
 
-_____
+## 5. Risks & Mitigations
 
-## Success metric
+Sign in and step up identity verification must be completed in order to view pension personal data.
 
-_The single number that says the bet paid off._
+## 6. V1 Scope
 
-_____
+In: payment history of pension payments 
+Out: pension application
