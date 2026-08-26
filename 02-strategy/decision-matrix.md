@@ -2,9 +2,8 @@
 
 ## The decision
 
-Whether RocketShip builds Automated Prioritization in Juno as a Hybrid (RAG + Agentic) Copilot, vs buying a generic LLM API or fine-tuning a model on our corpus.
-
-Why now: roadmap discussions are driven by the loudest voice in Slack rather than customer evidence. Priorities reverse weekly, and the PM cannot defend the call to leadership.
+Whether we builds pension payment history as a static webpage or include RAG/LLM capabilities
+Why now: Customer sentiment has steadily decreased
 
 ## Options scored
 
@@ -16,4 +15,4 @@ Why now: roadmap discussions are driven by the loudest voice in Slack rather tha
 
 ## Recommendation
 
-_The chosen option and the business reason._
+Recommend to make this as self service as possible and thus BUILD an in house LLM and RAG structure
